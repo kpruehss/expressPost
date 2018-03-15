@@ -1,0 +1,26 @@
+{
+  "name": "expresspost",
+  "version": "1.0.0",
+  "description": "Dicking around with post requests in express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpruehss/expressPost.git"
+  },
+  "author": "Karsten Pruehss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpruehss/expressPost/issues"
+  },
+  "homepage": "https://github.com/kpruehss/expressPost#readme",
+  "dependencies": {
+    "eslint": "^4.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
